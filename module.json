@@ -12,7 +12,7 @@
   },
   "system": ["wod5e"],
   "url": "https://github.com/ilithien/vtm5e-compendia",
-  "download": "https://github.com/ilithien/vtm5e-compendia/archive/12.02.zip",
+  "download": "https://github.com/ilithien/vtm5e-compendia/archive/0.0.1.zip",
   "manifest": "https://github.com/ilithien/vtm5e-compendia/releases/latest/download/module.json",
   "packs": [
     {
