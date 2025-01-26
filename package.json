@@ -1,6 +1,6 @@
 {
   "name": "vtm5-compendium",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Vampire The Masquerade 5th edition - Compendia ",
   "scripts": {
     "generate:db": "node ./scripts/generate-db.js"
