@@ -2,7 +2,7 @@
   "id": "vtm5e-compendia",
   "title": "Vampire: The Masquerade 5th edition - compendia",
   "description": "VTM5e system private compendia package",
-  "authors": [{ "name": "opalerm" }],
+  "authors": [{ "name": "ilithien" }],
   "version": "1.0.0",
   "minimumCoreVersion": "12.0.0",
   "compatibleCoreVersion": "12.331",
@@ -10,9 +10,9 @@
     "minimum": "12",
     "verified": "12"
   },
-  "system": ["wod5e"],
+  "system": ["vtm5e"],
   "url": "https://github.com/ilithien/vtm5e-compendia",
-  "download": "https://github.com/ilithien/vtm5e-compendia/archive/refs/tags/0.0.2.zip",
+  "download": "https://github.com/ilithien/vtm5e-compendia/archive/refs/tags/0.0.3.zip",
   "manifest": "https://github.com/ilithien/vtm5e-compendia/releases/latest/download/module.json",
   "packs": [
     {
