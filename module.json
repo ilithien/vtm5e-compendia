@@ -1,0 +1,25 @@
+{
+  "name": "vtm5e-compendia",
+  "title": "Vampire: The Masquerade 5th edition - compendia",
+  "description": "VTM5e system private compendia package",
+  "author": "opalerm",
+  "version": "1.0.0",
+  "minimumCoreVersion": "12.0.0",
+  "compatibleCoreVersion": "12.331",
+  "packs": [
+    {
+      "name": "disciplines",
+      "label": "VTM5e - Disciplinas",
+      "path": "packs/disciplines.db",
+      "entity": "Item",
+      "module": "vtm5e-compendia"
+    },
+    {
+      "name": "clans",
+      "label": "VTM5e - Clanes",
+      "path": "packs/disciplines.db",
+      "entity": "Item",
+      "module": "vtm5e-compendia"
+    }
+  ]
+}
