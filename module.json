@@ -28,6 +28,13 @@
       "path": "packs/clans.db",
       "entity": "Item",
       "module": "vtm5e-compendia"
+    },
+    {
+      "name": "predator-types",
+      "label": "VTM5e - Tipos de depredador",
+      "path": "packs/predator-types.db",
+      "entity": "Item",
+      "module": "vtm5e-compendia"
     }
   ],
   "relationships": {

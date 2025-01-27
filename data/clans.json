@@ -1,9 +1,9 @@
 {
-  "package": "pcs-vtm5-compendia.clans",
+  "package": "world.vtm-5e-clans",
   "metadata": {
-    "name": "clans",
-    "label": "Clans",
-    "path": "modules/pcs-vtm5-compendia/packs/clans",
+    "name": "vtm-5e-clans",
+    "label": "VTM 5e - Clans",
+    "path": "worlds/la-sombra-de-la-torre/packs/vtm-5e-clans",
     "type": "Item",
     "system": "vtm5e",
     "ownership": {
@@ -11,9 +11,9 @@
       "ASSISTANT": "OWNER"
     },
     "flags": {},
-    "packageType": "module",
-    "packageName": "pcs-vtm5-compendia",
-    "id": "pcs-vtm5-compendia.clans"
+    "packageType": "world",
+    "packageName": "la-sombra-de-la-torre",
+    "id": "world.vtm-5e-clans"
   },
   "type": "Item",
   "items": [
@@ -38,8 +38,8 @@
         "coreVersion": "12.331",
         "systemId": "vtm5e",
         "systemVersion": "5.0.11",
-        "createdTime": 1737896735481,
-        "modifiedTime": 1737896735481,
+        "createdTime": 1730888672592,
+        "modifiedTime": 1737975011722,
         "lastModifiedBy": "9nC9eD9QbprxWyCM"
       },
       "_id": "BoloY3tlNUCli8PF"
@@ -65,8 +65,8 @@
         "coreVersion": "12.331",
         "systemId": "vtm5e",
         "systemVersion": "5.0.11",
-        "createdTime": 1737896735481,
-        "modifiedTime": 1737896735481,
+        "createdTime": 1730888672592,
+        "modifiedTime": 1737975011722,
         "lastModifiedBy": "9nC9eD9QbprxWyCM"
       },
       "_id": "TZPrZkmmohtmaK6P"
@@ -92,8 +92,8 @@
         "coreVersion": "12.331",
         "systemId": "vtm5e",
         "systemVersion": "5.0.11",
-        "createdTime": 1737896735481,
-        "modifiedTime": 1737896735481,
+        "createdTime": 1737970262781,
+        "modifiedTime": 1737975011722,
         "lastModifiedBy": "9nC9eD9QbprxWyCM"
       },
       "_id": "Z1W7qbV1uLbfPOut"
@@ -115,8 +115,8 @@
         "coreVersion": "12.331",
         "systemId": "vtm5e",
         "systemVersion": "5.0.11",
-        "createdTime": 1737896735481,
-        "modifiedTime": 1737896735481,
+        "createdTime": 1737970262781,
+        "modifiedTime": 1737975011722,
         "lastModifiedBy": "9nC9eD9QbprxWyCM"
       },
       "_id": "fV4AkccnlqnJa74r"
@@ -142,8 +142,8 @@
         "coreVersion": "12.331",
         "systemId": "vtm5e",
         "systemVersion": "5.0.11",
-        "createdTime": 1737896735481,
-        "modifiedTime": 1737896735481,
+        "createdTime": 1730926589497,
+        "modifiedTime": 1737975011722,
         "lastModifiedBy": "9nC9eD9QbprxWyCM"
       },
       "_id": "fWycdmq2S9fngGSJ"
@@ -169,11 +169,38 @@
         "coreVersion": "12.331",
         "systemId": "vtm5e",
         "systemVersion": "5.0.11",
-        "createdTime": 1737896735481,
-        "modifiedTime": 1737896735481,
+        "createdTime": 1730888672592,
+        "modifiedTime": 1737975011722,
         "lastModifiedBy": "9nC9eD9QbprxWyCM"
       },
       "_id": "ggbDLJWSFg4N6DBd"
+    },
+    {
+      "name": "Gangrel",
+      "type": "clan",
+      "img": "worlds/la-sombra-de-la-torre/assets/images/clans/Gangrel_Symbol_White.png",
+      "system": {
+        "description": "",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "bane": "<h2>Prohibición</h2><p>Los Gangrel se relacionan con su Bestia tanto como otros Vástagos se relacionan con los Gangrel: es una asociación recelosa. En el Frenesí, los Gangrel ganan uno o más rasgos animales: un rasgo físico, un olor o un tic de comportamiento. Estos rasgos duran una noche más después de ésa, perdurando como una resaca tras el desenfreno. Cada rasgo reduce un Atributo en 1 punto; el Narrador puede decidir que una lengua bífida o un almizcle de oso reducen Carisma, mientras que unas orejas de murciélago reducen Resolución (“todos esos molestos sonidos”). Si no se te ocurre nada de forma inmediata, el rasgo reduce Inteligencia o Manipulación.</p><p>El número de rasgos que manifiesta un Gangrel equivale a la Severidad de su Prohibición. Si tu personaje cabalga la ola del Frenesí (ver pág. 219), puedes escoger manifestar sólo un rasgo y que así sufra sólo una penalización a sus Atributos</p><h2>Compulsión: Impulsos animales</h2><p>Al retornar a un estado animal, el vampiro revierte a un punto en el que hablar es difícil, la ropa es incómoda y la mejor manera de resolver las disputas es mediante garras y dientes.</p><p>Durante una escena, se aplica una penalización de tres dados a todas las tiradas del vampiro en las que estén implicadas la Manipulación y la Inteligencia. Durante ese tiempo sólo pueden pronunciar frases de una sola palabra.</p>"
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {
+        "vtm5e": {
+          "dataItemId": "clan-gangrel"
+        }
+      },
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": "vtm5e",
+        "systemVersion": "5.0.11",
+        "createdTime": 1737975011783,
+        "modifiedTime": 1737975011783,
+        "lastModifiedBy": "9nC9eD9QbprxWyCM"
+      },
+      "_id": "iO2gDs2dogi8A3jr"
     },
     {
       "folder": null,
@@ -196,11 +223,38 @@
         "coreVersion": "12.331",
         "systemId": "vtm5e",
         "systemVersion": "5.0.11",
-        "createdTime": 1737896735481,
-        "modifiedTime": 1737896735481,
+        "createdTime": 1730926589497,
+        "modifiedTime": 1737975011722,
         "lastModifiedBy": "9nC9eD9QbprxWyCM"
       },
       "_id": "iUq7s4ULH8aGJvss"
+    },
+    {
+      "name": "El Ministerio",
+      "type": "clan",
+      "img": "worlds/la-sombra-de-la-torre/assets/images/clans/TheMinistry_Symbol_White.png",
+      "system": {
+        "description": "<p>El Ministerio siempre tiene algo que ofrecer. Este Clan, a menudo con apariencia de culto, recluta a quienes son capaces de emplear la tentación como arma. Abraza a quienes tienen la voluntad y los medios de influir, atrapar y, en última instancia, liberar a sus objetivos de cualquier cosa que busquen: las posesiones, alianzas e incluso la fe de la víctima. Para las Serpientes, todo tiene un precio. </p><p>El Ministerio, en parte Clan, en parte culto, ocupa un extraño nicho en la sociedad vampírica. Para sí mismos, el Ministerio sirve al propósito de liberar a los individuos de aceptar sin crítica la carga del «pecado» que les ha sido impuesto, ya sea en forma de doctrina religiosa, estigma social o incluso las Tradiciones de los Condenados. Sus detractores no tienen tan elevada opinión de ellos y a menudo los consideran degenerados agitadores que esgrimen un arsenal de egoístas herejías.</p><p>El sacerdote sonriente que ofrece perdón fácil, el camello mugriento que vende una evasión química barata, el empresario del burlesque que ofrece una noche de abandono, el carismático traficante que ofrece hacer que los problemas simplemente desaparezcan: todos ellos y más representan el mundo marginal de los Ministros, donde los problemas y soluciones son un ecosistema en sí mismos. ¿Tienes un problema? Un Ministro está feliz de ayudarte a resolverlo… y de convencerte de que realmente no es un problema para empezar, siempre que tengas la perspectiva adecuada. Por supuesto, esa perspectiva,  probablemente te ponga en la misma posición de nuevo, donde el Ministro amablemente te lleva por la espiral que ha elegido. No es sorprendente que esto suela valerles la ira de quienes se benefician de las costumbres previas o quienes mantienen su propia prominencia al dictar valores sociales.</p><p>Nada de esto quiere decir que el Ministerio sea precisamente amoral; más bien lo contrario. Para ellos, el hecho de cuestionarse algo es un sacramento. Sin pecado, ¿qué valor tiene la rectitud? ¿Y qué es condenar el pecado sino un método de control? La costumbre del Ministerio es desafiar una moralidad dominante para preguntar «¿por qué esto está prohibido?» y poner a prueba los méritos de lo que puede obtenerse subvirtiendo la moralidad por defecto. Si resulta que desafiar lo prohibido puede exponer una debilidad en otros que un Ministro pueda usar en su favor, bueno, eso es prácticamente crear una divinidad a su propia imagen. Muchos Ministerios establecen santuarios, templos, iglesias y otros lugares que al tiempo se burlan de la religión tradicional y demuestran la piedad de esa Serpiente individual. Podrían ser cualquier cosa desde una hornacina en un apartamento con unas cuantas velas, barras de incienso e iconos de significancia personal a un templo genuino donde muchos Ministros apreciados confraternizan y rinden culto.</p><p>De hecho, quizás la mayor facción del Clan se haya apropiado de la imagen del dios egipcio Set, con el que los Antiguos del Clan afirman tener una conexión o incluso consanguinidad. </p>",
+        "bonuses": [],
+        "gamesystem": "vampire",
+        "bane": "<h2>Prohibición</h2><p>La Sangre de los Ministros aborrece la luz. Cuando se les expone a iluminación directa, ya sea natural o artificial, los miembros del Clan retroceden. Reciben una penalización igual a la Severidad de su Prohibición en todas las reservas de dados cuando son sometidos a una luz brillante dirigida directamente a ellos. Además, añaden la Severidad de su Prohibición al daño agravado que sufren de la luz solar. </p><h2>Compulsión: Transgresión</h2><p>En el Clan de la Fe (o de las Mentiras…) prevalece el conocimiento de que toda mente y espíritu son presa de cadenas invisibles de nuestra propia creación. Con su Sangre irritada por estas ligaduras, el Ministro siente una ardiente necesidad de romperlas. El vampiro recibe 2 dados de penalización a todas las tiradas de dados no relacionadas con seducir a alguien (incluido él mismo) para que rompa un Principio de la Crónica o una Convicción personal, lo que causa al menos una Mácula al final de esta Compulsión.</p>"
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {
+        "vtm5e": {
+          "dataItemId": "clan-el-ministerio"
+        }
+      },
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": "vtm5e",
+        "systemVersion": "5.0.11",
+        "createdTime": 1737975011783,
+        "modifiedTime": 1737975011783,
+        "lastModifiedBy": "9nC9eD9QbprxWyCM"
+      },
+      "_id": "kwSclv5WXhZsz2WK"
     },
     {
       "folder": null,
@@ -223,8 +277,8 @@
         "coreVersion": "12.331",
         "systemId": "vtm5e",
         "systemVersion": "5.0.11",
-        "createdTime": 1737896735481,
-        "modifiedTime": 1737896735481,
+        "createdTime": 1730888672592,
+        "modifiedTime": 1737975011722,
         "lastModifiedBy": "9nC9eD9QbprxWyCM"
       },
       "_id": "pkkuAE4NSbkgmpDn"
@@ -250,8 +304,8 @@
         "coreVersion": "12.331",
         "systemId": "vtm5e",
         "systemVersion": "5.0.11",
-        "createdTime": 1737896735481,
-        "modifiedTime": 1737896735481,
+        "createdTime": 1730888672592,
+        "modifiedTime": 1737975011722,
         "lastModifiedBy": "9nC9eD9QbprxWyCM"
       },
       "_id": "qEnXKBjh8GVtE9cl"
