@@ -29,5 +29,14 @@
       "entity": "Item",
       "module": "vtm5e-compendia"
     }
-  ]
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "vtm5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  }
 }
