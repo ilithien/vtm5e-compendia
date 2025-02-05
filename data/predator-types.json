@@ -38,7 +38,7 @@
         "systemId": "vtm5e",
         "systemVersion": "5.0.11",
         "createdTime": 1737974514245,
-        "modifiedTime": 1737974514245,
+        "modifiedTime": 1738755852482,
         "lastModifiedBy": "9nC9eD9QbprxWyCM"
       },
       "_id": "25t7gaJnRxOmIceY"
@@ -64,7 +64,7 @@
         "systemId": "vtm5e",
         "systemVersion": "5.0.11",
         "createdTime": 1733659575618,
-        "modifiedTime": 1737974514184,
+        "modifiedTime": 1738755852482,
         "lastModifiedBy": "9nC9eD9QbprxWyCM"
       },
       "_id": "3blQkF3QrsVZhvkg"
@@ -90,7 +90,7 @@
         "systemId": "vtm5e",
         "systemVersion": "5.0.11",
         "createdTime": 1737974514245,
-        "modifiedTime": 1737974514245,
+        "modifiedTime": 1738755852482,
         "lastModifiedBy": "9nC9eD9QbprxWyCM"
       },
       "_id": "6eWiGzuaVhte3r4m"
@@ -116,7 +116,7 @@
         "systemId": "vtm5e",
         "systemVersion": "5.0.11",
         "createdTime": 1733659575618,
-        "modifiedTime": 1737974514184,
+        "modifiedTime": 1738755852482,
         "lastModifiedBy": "9nC9eD9QbprxWyCM"
       },
       "_id": "DpqfXn7X9D3DQJiA"
@@ -142,7 +142,7 @@
         "systemId": "vtm5e",
         "systemVersion": "5.0.11",
         "createdTime": 1737974514245,
-        "modifiedTime": 1737974514245,
+        "modifiedTime": 1738755852482,
         "lastModifiedBy": "9nC9eD9QbprxWyCM"
       },
       "_id": "QJ4fRqNmZ3MairWq"
@@ -168,7 +168,7 @@
         "systemId": "vtm5e",
         "systemVersion": "5.0.11",
         "createdTime": 1737974514245,
-        "modifiedTime": 1737974514245,
+        "modifiedTime": 1738755852482,
         "lastModifiedBy": "9nC9eD9QbprxWyCM"
       },
       "_id": "RQ0F4epV8AGbUyNQ"
@@ -194,7 +194,7 @@
         "systemId": "vtm5e",
         "systemVersion": "5.0.11",
         "createdTime": 1733659575618,
-        "modifiedTime": 1737974514184,
+        "modifiedTime": 1738755852482,
         "lastModifiedBy": "9nC9eD9QbprxWyCM"
       },
       "_id": "Sp0WkNkOOYyN43W5"
@@ -220,7 +220,7 @@
         "systemId": "vtm5e",
         "systemVersion": "5.0.11",
         "createdTime": 1737974514245,
-        "modifiedTime": 1737974514245,
+        "modifiedTime": 1738755852482,
         "lastModifiedBy": "9nC9eD9QbprxWyCM"
       },
       "_id": "UvImdw6oIumtWTe1"
@@ -246,7 +246,7 @@
         "systemId": "vtm5e",
         "systemVersion": "5.0.11",
         "createdTime": 1733659575618,
-        "modifiedTime": 1737974514184,
+        "modifiedTime": 1738755852482,
         "lastModifiedBy": "9nC9eD9QbprxWyCM"
       },
       "_id": "YpRx0nD2iP8XFjJX"
@@ -272,7 +272,7 @@
         "systemId": "vtm5e",
         "systemVersion": "5.0.11",
         "createdTime": 1737974514245,
-        "modifiedTime": 1737974514245,
+        "modifiedTime": 1738755852482,
         "lastModifiedBy": "9nC9eD9QbprxWyCM"
       },
       "_id": "b41AHHBqHmQiK866"
@@ -298,7 +298,7 @@
         "systemId": "vtm5e",
         "systemVersion": "5.0.11",
         "createdTime": 1733659575618,
-        "modifiedTime": 1737974514184,
+        "modifiedTime": 1738755852482,
         "lastModifiedBy": "9nC9eD9QbprxWyCM"
       },
       "_id": "bMv1UNuqXnBDRTOL"
@@ -324,7 +324,7 @@
         "systemId": "vtm5e",
         "systemVersion": "5.0.11",
         "createdTime": 1733659575618,
-        "modifiedTime": 1737974514184,
+        "modifiedTime": 1738755852482,
         "lastModifiedBy": "9nC9eD9QbprxWyCM"
       },
       "_id": "eYXRnw986JfOZSCi"
@@ -350,7 +350,7 @@
         "systemId": "vtm5e",
         "systemVersion": "5.0.11",
         "createdTime": 1737974514245,
-        "modifiedTime": 1737974514245,
+        "modifiedTime": 1738755852482,
         "lastModifiedBy": "9nC9eD9QbprxWyCM"
       },
       "_id": "jxh60oe5IqNpKvCQ"
@@ -376,10 +376,36 @@
         "systemId": "vtm5e",
         "systemVersion": "5.0.11",
         "createdTime": 1737974514245,
-        "modifiedTime": 1737974514245,
+        "modifiedTime": 1738755852482,
         "lastModifiedBy": "9nC9eD9QbprxWyCM"
       },
       "_id": "lt8HDsPMk4WqMR1q"
+    },
+    {
+      "folder": null,
+      "name": "Bolsero",
+      "type": "predatorType",
+      "img": "systems/vtm5e/assets/icons/items/item-default.svg",
+      "system": {
+        "description": "<p>Robas, compras u obtienes de otro modo sangre fría en vez de Cazar, para lo que dependes del mercado negro, de tus habilidades como ladrón o como picapleitos de seguros. Los Ventrue no pueden elegir este tipo de Depredador.</p><p>■ Añade una Especialidad: Latrocinio (Forzar Cerraduras) o Callejeo (Mercado Negro). </p><p>■ Gana 1 punto de Hechicería de Sangre (sólo los Tremere) u Ofuscación.</p><p>■ Gana el Mérito de Alimentación Garganta de Hierro (•••).</p><p>■ Gana el Defecto Enemigo (••): O bien alguien cree que le debes una o hay otra razón por la que te mantienes fuera de las calles.</p>",
+        "bonuses": [],
+        "gamesystem": "vampire"
+      },
+      "effects": [],
+      "flags": {
+        "vtm5e": {
+          "dataItemId": "predatorType-cleaver"
+        }
+      },
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": "vtm5e",
+        "systemVersion": "5.0.11",
+        "createdTime": 1738755852546,
+        "modifiedTime": 1738755852546,
+        "lastModifiedBy": "9nC9eD9QbprxWyCM"
+      },
+      "_id": "uHvv9mBS9quTXvN2"
     }
   ],
   "source": {
@@ -390,5 +416,9 @@
       "system": "5.0.11"
     }
   },
-  "folders": []
+  "folders": [],
+  "folder": {
+    "id": "RPo335LTCJZCr9Pb",
+    "name": "Vampiro: La Mascarada"
+  }
 }
