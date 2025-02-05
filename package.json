@@ -1,6 +1,6 @@
 {
   "name": "vtm5-compendium",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "Vampire The Masquerade 5th edition - Compendia. This is just for PERSONAL use under the Dark Pact agreement.",
   "scripts": {
     "generate:db": "node ./scripts/generate-db.js"
