@@ -1,7 +1,7 @@
 {
   "id": "wod5-compendia",
   "title": "wod5-compendia",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -12,6 +12,9 @@
       "flags": {}
     }
   ],
+  "url": "https://github.com/ilithien/vtm5e-compendia",
+  "download": "https://github.com/ilithien/vtm5e-compendia/archive/refs/tags/1.1.0.zip",
+  "manifest": "https://github.com/ilithien/vtm5e-compendia/releases/latest/download/module.json",
   "packs": [
     {
       "name": "vtm5-disciplines",
