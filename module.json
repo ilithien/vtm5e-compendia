@@ -1,49 +1,61 @@
 {
-  "id": "vtm5e-compendia",
-  "title": "Vampire: The Masquerade 5th edition - compendia",
-  "description": "VTM5e system private compendia package",
-  "authors": [{ "name": "ilithien" }],
-  "version": "1.0.1",
-  "minimumCoreVersion": "12.0.0",
-  "compatibleCoreVersion": "12.331",
+  "id": "wod5-compendia",
+  "title": "wod5-compendia",
+  "version": "1.0.0",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
   },
-  "system": ["vtm5e"],
-  "url": "https://github.com/ilithien/vtm5e-compendia",
-  "download": "https://github.com/ilithien/vtm5e-compendia/archive/refs/tags/1.0.1.zip",
-  "manifest": "https://github.com/ilithien/vtm5e-compendia/releases/latest/download/module.json",
-  "packs": [
+  "authors": [
     {
-      "name": "disciplines",
-      "label": "VTM5e - Disciplinas",
-      "path": "packs/disciplines.db",
-      "entity": "Item",
-      "module": "vtm5e-compendia"
-    },
-    {
-      "name": "clans",
-      "label": "VTM5e - Clanes",
-      "path": "packs/clans.db",
-      "entity": "Item",
-      "module": "vtm5e-compendia"
-    },
-    {
-      "name": "predator-types",
-      "label": "VTM5e - Tipos de depredador",
-      "path": "packs/predator-types.db",
-      "entity": "Item",
-      "module": "vtm5e-compendia"
+      "name": "IlithieN",
+      "flags": {}
     }
   ],
-  "relationships": {
-    "systems": [
-      {
-        "id": "vtm5e",
-        "type": "system",
-        "compatibility": {}
+  "packs": [
+    {
+      "name": "vtm5-disciplines",
+      "label": "VTM5 - Disciplines",
+      "path": "packs/vtm5-disciplines",
+      "type": "Item",
+      "system": "vtm5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
       }
-    ]
-  }
+    },
+    {
+      "name": "vtm5-clans",
+      "label": "VTM5 - Clans",
+      "path": "packs/vtm5-clans",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "vtm5e"
+    },
+    {
+      "name": "vtm5-tipos-de-depredador",
+      "label": "VTM5 - Tipos de depredador",
+      "path": "packs/vtm5-tipos-de-depredador",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "vtm5e"
+    },
+    {
+      "name": "vtm5-resonancias",
+      "label": "VTM5 - Resonancias",
+      "path": "packs/vtm5-resonancias",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "vtm5e"
+    }
+  ]
 }
